@@ -21,6 +21,7 @@ public class LangkahPercobaan { public static void main(String[] args) {
         System.out.println("1.Pisang");
         System.out.println("2.Telur");
         System.out.println("3. Susu kental manis");
+        System.out.println("4. Keju");
         System.out.print("Masukkan no pilihan Anda : ");
         int bahan1 = scanner.nextInt();
         

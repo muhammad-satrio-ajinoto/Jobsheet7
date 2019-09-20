@@ -9,6 +9,15 @@ package jobsheet5;
  *
  * @author HP 242
  */
-class a<T0, T1> {
+public class train1 {
+    public static void main(String[]args){
+        int a = 1;
+        while (a < 0)
+        {
+        System.out.println(a);
+        a++;
+        }
+        
+    }
     
 }
